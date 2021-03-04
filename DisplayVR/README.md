@@ -7,6 +7,9 @@ and experiment with the resolution in the raspberry config file.
 
 I will be very happy if you support me)
 
-https://www.patreon.com/emptyslots
-https://boosty.to/emptyslots
-https://www.donationalerts.com/r/emptyslots
+https://www.patreon.com/emptyslots	
+
+https://boosty.to/emptyslots	
+
+https://www.donationalerts.com/r/emptyslots	
+
